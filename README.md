@@ -1,7 +1,7 @@
 # Zoom-Best-Practices
 This repository contains some thoughts about best practices for remote instruction.
 
-# Thoughts on my experience, which may differ.
+# Thoughts on my experience, which may vary.
 
 * Use a quiet location with as little external sound as possible.  
 * Distribute materials through NYU Classes.
