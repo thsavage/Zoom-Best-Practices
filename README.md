@@ -7,5 +7,6 @@ This repository contains some thoughts about best practices for remote instructi
 * Distribute materials through NYU Classes.
 * Display materials through "Share Your Desktop" feature in Zoom.
 * I pause to ask if there are questions or thoughts on a frequent basis.
-* Use a wired microphone rather than bluetooth.  
+* I use a wired microphone rather than bluetooth ear buds.
+* I do not enable video to reduce bandwidth constraints.
 * I will record a brief example using the DiPasquale-Wheaton model on a PPT.  (Cosmic justice.)
